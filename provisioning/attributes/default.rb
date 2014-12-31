@@ -1,0 +1,1 @@
+default["percona"]["skip_passwords"] = true

@@ -3,8 +3,9 @@ version '1.0.0'
 
 supports 'ubuntu'
 
+depends 'apt'
 depends 'redisio'
 depends 'ark'
 depends 'cron'
 depends 'php'
-depends 'mysql', '~> 6.0'
+depends 'database'
